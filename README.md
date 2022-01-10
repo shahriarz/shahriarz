@@ -3,12 +3,11 @@
 [![Website](https://img.shields.io/website?label=zahantech.com&style=for-the-badge&url=https%3A%2F%2Fzahantech.com)](https://zahantech.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imzahan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimzahan&screen_name=imzahan)
 
-## I'm a Husband, Father, Developer, and Trainer!!
+## I'm a Husband, Father, Web Developer & Technology Enthusiast!! 🌝
 
-- ✋ I'm a Web Developer, passionate learner, and dreamer! 🌝
 - 🏹 I prefer Laravel to develop Web Applications and WordPress to design and develop websites.
 - 🎨 I am always learning this and that.
-- 🎼 I love to travel, listen to music and to read books.
+- ✋ I love to travel, listen to music and to read books.
 - 🥅 2022 Goals: To establish my brand & services - 'ZAHAN TECH.'
 
 ### Connect with me:
